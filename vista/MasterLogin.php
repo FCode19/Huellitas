@@ -56,7 +56,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                     <img src="../recursos/LOGOO.png" alt="Logo" class="img-fluid" style="background-color: #fafafb">
                 </div>
                 <div class="col-9 right-section">
-                    <div class="clickable-area" onclick="location.href='#'">
+                    <div class="clickable-area" onclick="location.href='VistaMenuMed.php'">
                         <img src="../recursos/MEDICO.png" alt="Médico">
                         <h4 class="mb-0">MÉDICO</h4>
                     </div>
