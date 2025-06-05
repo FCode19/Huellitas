@@ -102,7 +102,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                 </div>
                 <button type="submit" class="btn btn-success">Registrar y Refrescar</button>
                 <a href="VistaMantenimientoMed.php" class="btn btn-info ms-2">Ir a Mantenimiento Médico</a>
-                <a href="../index.html" class="btn btn-secondary ms-2">Volver</a>
+                <a href="MasterLogin.php" class="btn btn-secondary ms-2">Volver</a>
             </form>
         </div>
 
